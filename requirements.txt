@@ -6,7 +6,7 @@ librosa==0.9.1
 numpy==1.26.4
 onnxruntime_gpu
 praat-parselmouth>=0.4.2
-pydantic==2.5.2
+pydantic==2.9.0
 pyworld==0.3.4
 Requests==2.32.3
 websockets==14.0.0
